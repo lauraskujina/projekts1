@@ -4,13 +4,13 @@ padding: 16px 32px 8px;
 margin: 8px 12px;
 font-family: 'Trebuchet MS', monospace;
 font-size: 32px;
-color:#ECECEC;
+color:#6B0369;
 }
 .arejaKaste{
   border-style: double;
   margin: 50px 20px 50px 20px;
   background-color:#2E2E2E;
-  border-color: #ECECEC;
+  border-color: #6B0369;
   padding: 15px 15px 15px 15px;
   width: 30%;
 }
@@ -64,7 +64,7 @@ text-align: center;
 font-family: 'Trebuchet MS', monospace;
 }
  .check{
-color: #ECECEC;
+color: #6B0369;
 display: inline-block;
 width: 150px;
 border: 2px solid;
@@ -76,5 +76,5 @@ margin-left: 125px;
 }
 .line{
   width: 95%;
-  color: #42135E;
+  color: #6B0369;
 }
