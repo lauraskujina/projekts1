@@ -1,9 +1,9 @@
 .teksts {
 display: flex;
-padding: 16px 32px 8px;
-margin: 8px 12px;
-font-family: 'Trebuchet MS', monospace;
-font-size: 32px;
+padding: 14px 30px 10px;
+margin: 6px 10px;
+font-family: 'Garamond', monospace;
+font-size: 26px;
 color:#6B0369;
 }
 .apkart{
@@ -47,26 +47,24 @@ font-family: 'Garamond', monospace;
  .ievadi{
 background-color: #42135E;
 color:#0FCCAB ;
-width: 150px;
-border: 2px solid;
-border-radius: 25px 25px 25px 25px;
-padding: 7px 7px 7px 7px;
-margin: 10px 10px 10px 10px;
+width: 140px;
+border: 4px;
+border-radius: 15px 15px 15px 15px;
+padding: 8px 8px 8px 8px;
+margin: 12px 12px 12px 12px;
 text-align: center;
-font-family: 'Trebuchet MS', monospace;
+font-family: 'Garamond', monospace;
 }
- .check{
+ .v{
 color: #6B0369;
 display: inline-block;
 width: 150px;
-border: 2px solid;
-border-radius: 50px 50px 50px 50px;
-padding: 7px 7px 7px 7px;
-height: 25px;
-width: 25px;
-margin-left: 125px;
+padding: 9px 9px 9px 9px;
+height: 35px;
+width: 35px;
+margin-left: 130px;
 }
-.line{
-  width: 95%;
+.linija{
+  width: 90%;
   color: #6B0369;
 }
