@@ -6,8 +6,7 @@ font-family: 'Trebuchet MS', monospace;
 font-size: 32px;
 color:#6B0369;
 }
-.arejaKaste{
-  border-style: double;
+.apkart{
   margin: 50px 20px 50px 20px;
   background-color:#CC5F0F;
   border-color: #6B0369;
@@ -19,42 +18,35 @@ color:#6B0369;
   text-align: center;
   color:#0FCCAB ;
   font-size: 16px;
-  opacity: 0.6;
-  transition: 0.3s;
-  display: inline-block;
   cursor: pointer;
-  border: 2px solid;
-  border-radius: 50px 20px;
-  padding: 7px 7px 7px 7px;
-  margin-left: 450px;
-  font-family: 'Trebuchet MS', monospace;
+  border: 3px;
+  border-radius: 20px 20px 20px 20px;
+  padding: 6px 6px 6px 6px;
+  margin-left: 420px;
+  font-family: 'Garamond', monospace;
 }
 .poga:hover {opacity: 1}
 
- .label {
+ .izveles {
 background-color: #42135E;
 color:#0FCCAB ;
 font-weight: bold;
-display: inline-block;
-width: 150px;
-border: 2px solid;
-border-radius: 25px 25px 25px 25px;
-padding: 7px 7px 7px 7px;
-margin: 10px 10px 10px 10px;
+width: 140px;
+border: 3px;
+border-radius: 14px 14px 14px 14px;
+padding: 8px 8px 8px 8px;
+margin: 11px 11px 11px 11px;
 text-align: center;
-font-family: 'Trebuchet MS', monospace;
+font-family: 'Garamond', monospace;
 }
-.img {
-  border: 5px solid #0FCCAB ;
-  width:258px;
-  height:178px;
-  float: center;
-  margin-left: 75px;
+.bilde {
+  width:387px;
+  height:267px;
+  margin-left: 60px;
 }
- .input{
+ .ievadi{
 background-color: #42135E;
 color:#0FCCAB ;
-display: inline-block;
 width: 150px;
 border: 2px solid;
 border-radius: 25px 25px 25px 25px;
